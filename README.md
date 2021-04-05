@@ -1,3 +1,5 @@
+I am a young developer that wants to be a software engineer, I am learning and finding my way to coding and developing. This is my GitHub!
+
 - 👋 Hi, I’m @kathool
 - 👀 I’m interested in Software Engineering and Video Game Development
 - 🌱 I’m currently learning Python and C#
