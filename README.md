@@ -7,6 +7,9 @@ I am a young developer that wants to be a software engineer, I am learning and f
 - 📫 You can reach out to me through the following...
 
 Discord - Kathool#0999
+
 Email - ntdaggett@gmail.com
+
 Twitter - @totallykathool
+
 Skype - live:ntdaggett1
