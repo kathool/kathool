@@ -5,6 +5,7 @@ I am a young developer that wants to be a software engineer, I am learning and f
 - 🌱 I’m currently learning Python and C#
 - 💞️ I’m looking to collaborate on Unity Projects and Python Software
 - 📫 You can reach out to me through the following...
+
 Discord - Kathool#0999
 Email - ntdaggett@gmail.com
 Twitter - @totallykathool
