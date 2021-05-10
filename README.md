@@ -2,7 +2,7 @@ I am a young developer that wants to be a software engineer, I am learning and f
 
 - 👋 Hi, I’m @kathool
 - 👀 I’m interested in Software Engineering and Video Game Development
-- 🌱 I’m currently learning Python and C#
+- 🌱 I’m currently learning Python, JS and C#
 - 💞️ I’m looking to collaborate on Unity Projects and Python Software
 - 📫 You can reach out to me through the following...
 
