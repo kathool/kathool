@@ -1,12 +1,11 @@
-I am a young developer that wants to be a software engineer, I am learning and finding my way to coding and developing. This is my GitHub!
+I am a young developer, and I love learning. I code as a hobby so I'm not consistently active nor am I employed in the development field, but nonetheless I still love coding and this is my GitHub Page!
 
 - 👋 Hi, I’m @kathool
-- 👀 I’m interested in Software Engineering and Video Game Development
-- 🌱 I’m currently learning Python, JS and C#
-- 💞️ I’m looking to collaborate on Unity Projects and Python Software
+- 👀 I’m interested in AI, Coding for Hardware (Microchips) with Python and sometimes Arduino
+- 🌱 I’m currently learning Python, CircuitPython/MicroPython, and Machine Learning with Python (TensorFlow)
 - 📫 You can reach out to me through the following...
 
-Discord - Kathool#5142
+Discord - kathool
 
 Email - ntdaggett@gmail.com
 
