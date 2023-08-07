@@ -10,5 +10,3 @@ Discord - kathool
 Email - ntdaggett@gmail.com
 
 Twitter - @totallykathool
-
-Skype - live:ntdaggett1
