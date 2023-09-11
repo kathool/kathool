@@ -7,6 +7,6 @@ I am a young developer, and I love learning. I code as a hobby so I'm not consis
 
 Discord - kathool
 
-Email - ntdaggett@gmail.com
+Email - ntdaggett@gmail.com or nick@kathool.xyz
 
-Twitter - @totallykathool
+Go to my [website](https://www.kathool.xyz) for for more
